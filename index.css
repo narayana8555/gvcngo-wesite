@@ -1,0 +1,233 @@
+.nav-link{
+    margin-top: 15px;
+    color: white;
+    font-size: 12px;
+    font-family: Roboto;
+}
+.btn{
+    font-size: 12px;
+    font-family: Roboto;
+    padding: 6px 15px;
+    margin-top: 15px;
+}
+.CardbackGround{
+    background-image: url("../public/NGOBANNER.jpeg");
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 640px;
+}
+img{
+    height: 40px;
+}
+.banner-heading{
+    color:black ;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.text-dogood{
+    border:0px;
+    padding-left:245px;
+}
+.text-initiative{
+    color:white;
+    font-size: 30px;
+    font-family:Roboto ;
+    font-weight: bold;
+    
+}
+.banner-paragraph{
+    color:white;
+    font-size:15px;
+    font-family: Roboto;
+    margin-left:245px;
+}
+.custom-banner-button{
+    color:white;
+    background: transparent;
+    border: 2px;
+    padding:5px 13px;
+    border-style: solid;
+    border-color: orange;
+    margin-left:245px;
+    font-size:11px;
+}
+.Arrow-custom{
+    margin-left:2px;
+}
+.banner-writing{
+margin-top: 260px;
+}
+.Bottomarrow{
+margin-top: 130px;
+}
+.Arr{
+    font-size: 20px;
+    color: aliceblue;
+}
+.Arrr{
+    font-size: 20px;
+    color: orange;
+}
+.Aboutus-paragraph1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+.project-section-heading{
+    font-family:Roboto;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.Project-section-img1{
+    background-color: palegreen;
+    height:230px;
+    width:300px;
+    margin-bottom: 30px;
+}
+.Project-section-heading1{
+    font-size:25px;
+    color:white;
+    font-weight: bold;
+    font-family: Roboto;  
+}
+.Custom-underline{
+    border-bottom: 4px solid rgb(239, 208, 7);
+    margin-left:145px;
+    width:35px;
+    margin-bottom: 20px;
+}
+.Project-section-button{
+    font-size: 12px;
+    font-family: Roboto;
+    font-weight:bold;
+    border: 0px;
+    padding:8px 15px;
+}
+.Project-section-paragraph{
+    font-size: 12px;
+    font-weight: 300;
+    font-family: Roboto;
+    color: white;
+}
+.project-section-top{
+    position: absolute;
+    top:1060px;
+}
+.project-section-custom-margin{
+    margin-top:80px;
+}
+.project-section-arrow1{
+    font-size: 50px;
+    color:yellow;
+    margin-right: 1200px;
+    margin-left: 80px;
+    position: absolute;
+    top:1280px;
+}
+.project-section-arrow2{
+    font-size: 50px;
+    color:yellow;
+    margin-left: 1200px;
+    position: absolute;
+    top:1280px;
+    
+}
+.Blackbackground{
+    background: black;
+    height:500px;
+    width:100vw; 
+    margin-top:170px;
+}
+.contactus-section-heading{
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.custom-icon{
+    font-size: 28px;
+    border:1px dashed rgb(50, 44, 44);
+    border-radius:50%;
+    width:50px;
+    height:50px;
+    display:inline-block;  
+}
+.Contactus-card{
+    background-color:rgb(235, 227, 227);
+    height: 660px;
+    width:1250px;  
+    position:absolute;
+    top:1540px;
+}
+.Contactus-section-innercard{
+    background-color: white;
+    height:430px;
+    width:980px;
+    margin-left: 180px;
+}
+.Contactus-section-topheading{
+    padding-bottom:20px;
+    color:black;
+    font-size: 28px;
+    font-family: Roboto;
+    font-weight:bold;
+    text-align:center;
+    padding-top: 50px;
+}
+.Contactus-section-photoes{
+    background-color:pink;
+    height:125px;
+    width:200px;
+}
+.Custom-contactus{
+    text-align:center;
+}
+.Vedioes-section-background{
+    background-color: black;
+    height:450px;
+    width:100vw;
+    margin-top: 496px;
+}
+.Vedioes-section-photoes{
+    background-color: aqua;
+    height: 250px;
+    width:450px;
+    margin-left: 30px;
+}
+.Vedioes-section-text{
+    color:white;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 400;
+    
+}
+.Custom-vedio-button{
+    font-size: 35px;
+    color:yellow;
+}
+.Donate-section-background{
+    height:80px;
+    width:100vw;
+    background-color: blueviolet;
+}
+.Donate-section-heading{
+    color:white;
+    font-size: 22px;
+    font-family: Roboto;
+    font-weight: 500;
+    margin-top: 25px;
+}
+.Donate-section-button{
+    color:rgb(27, 26, 26);
+    font-size: 16px;
+    margin:18px;
+}
+.Footer-section-background{
+    background-color: black;
+    height:300px;
+    width:100vw;
+    
+}
